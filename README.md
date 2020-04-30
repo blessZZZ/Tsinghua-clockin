@@ -14,7 +14,7 @@ firefox浏览器（本人运行的版本是: 75.0，或其他版本)
 
 # 2.Firefox下载好了，接下来我要怎么做呢？
 首先下载好我们的程序：
-![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/1.jpg))
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/1.jpg)
 <br/>点击Clone or download，然后下载zip版本，解压后我们可以得到：
 
 <br/>其实只需要clickin.exe这个程序就行了，你可以直接运行一下看看效果:
