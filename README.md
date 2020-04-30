@@ -4,8 +4,10 @@
 
 
 # 1.本地运行需要配备的环境
+```html
+   <font color="red">firefox浏览器</font>(本人运行的版本是: 75.0，或其他版本)
+```
 
-firefox浏览器（本人运行的版本是: 75.0，或其他版本)
 <br/><br/>选用firefox浏览器的<strong>原因</strong>：~~因为作者懒~~......咳咳，因为其他浏览器不方便！()
 <br/>例如win10自带的<strong>Edge</strong>浏览器，1.8版本以上的<strong>Edge</strong>浏览器运行selenium.webdriver需要在系统选项中开启开发者模式，对于一些人来说非常不方便。
 <br/>而<strong>Chrome</strong>浏览器版本更新速度快，容易导致该程序失效
@@ -32,11 +34,13 @@ firefox浏览器（本人运行的版本是: 75.0，或其他版本)
 <br/>点击"操作"-->"创建基本任务"
 <br/>接下来的操作如图所示:
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/3.bmp)
+<br/>你可以自己选择启动的时间和启动的间隔
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/4.bmp)
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/5.bmp)
-<br/>你可以自己选择启动的时间和启动的间隔
+
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/6.bmp)
-![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/7.bmp)
 <br/>这里的路径选择的你下载的clockin.exe的位置，选择它
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/7.bmp)
+
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/8.bmp)
 <br/>点击完成，之后程序就会按时自动运行了
