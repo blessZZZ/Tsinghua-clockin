@@ -43,4 +43,4 @@
 <br/>点击完成，之后程序就会按时自动运行了
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/8.bmp)
 
-<br/><br/><br/>以上就是我制作的清华每日[日报]打卡小程序，第一次在github上上传项目，请大家多指教！
+<br/><br/><br/>以上就是我制作的清华[日报]打卡小程序，第一次在github上上传项目，请大家多指教！
