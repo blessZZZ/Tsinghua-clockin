@@ -16,10 +16,10 @@ firefox浏览器（本人运行的版本是: 75.0，或其他版本)
 首先下载好我们的程序：
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/1.jpg)
 <br/>点击Clone or download，然后下载zip版本，解压后我们可以得到：
-
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/9.bmp)
 <br/>其实只需要clickin.exe这个程序就行了，你可以直接运行一下看看效果:
-
 <br/>(注意！360这时可能会出来加戏，你可以选择添加信任或者关掉360)
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/10.bmp)
 <br/>输入你的学号和密码，之后按回车键就可以自动运行了。这个程序只要输入过一次学号和密码，之后再启动时就不需要输入了。你会发现在clickin.exe的文件夹里多了一个txt文件:number.txt
 <br/>这里面存放的就是你的学号与密码，如果你在未来修改了密码，可以在number.txt里直接编辑
 
@@ -27,12 +27,16 @@ firefox浏览器（本人运行的版本是: 75.0，或其他版本)
 这里我用的是win10系统，如果你是mac系统和linux系统，系统里也是有自动执行程序的方法的。
 
 首先，我们要按住win+R键，在打开的运行窗口中输入命令control schedtasks
-<br/>电脑会打卡如下界面：
-
+<br/>电脑会打开如下界面：
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/2.bmp)
 <br/>点击"操作"-->"创建基本任务"
-
 <br/>接下来的操作如图所示:
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/3.bmp)
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/4.bmp)
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/5.bmp)
 <br/>你可以自己选择启动的时间和启动的间隔
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/6.bmp)
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/7.bmp)
 <br/>这里的路径选择的你下载的clockin.exe的位置，选择它
-
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/8.bmp)
 <br/>点击完成，之后程序就会按时自动运行了
