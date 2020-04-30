@@ -5,10 +5,9 @@
 
 # 1.本地运行需要配备的环境
 
- * <font color="red">firefox浏览器</font>(本人运行的版本是: 75.0，或其他版本)
+ * firefox浏览器(本人运行的版本是: 75.0，或其他版本)
 
-
-<br/><br/>选用firefox浏览器的<strong>原因</strong>：~~因为作者懒~~......咳咳，因为其他浏览器不方便！()
+<br/><br/>选用firefox浏览器的原因：~~因为作者懒~~......咳咳，因为其他浏览器不方便！()
 <br/>例如win10自带的<strong>Edge</strong>浏览器，1.8版本以上的<strong>Edge</strong>浏览器运行selenium.webdriver需要在系统选项中开启开发者模式，对于一些人来说非常不方便。
 <br/>而<strong>Chrome</strong>浏览器版本更新速度快，容易导致该程序失效
 
@@ -41,6 +40,7 @@
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/6.bmp)
 <br/>这里的路径选择的你下载的clockin.exe的位置，选择它
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/7.bmp)
-
-![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/8.bmp)
 <br/>点击完成，之后程序就会按时自动运行了
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/8.bmp)
+
+<br/><br/><br/>以上就是我制作的清华每日[日报]打卡小程序，第一次在github上上传项目，请大家多指教！
