@@ -15,7 +15,7 @@
 
 # 2.Firefox下载好了，接下来我要怎么做呢？
 首先下载好我们的程序：
-![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/1.jpg)
+![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/1.png)
 <br/>点击Clone or download，然后下载zip版本，解压后我们可以得到：
 ![image](https://github.com/blessZZZ/Tsinghua-clockin/blob/master/images/9.bmp)
 <br/>其实只需要clickin.exe这个程序就行了，你可以直接运行一下看看效果:
